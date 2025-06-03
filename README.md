@@ -6,7 +6,7 @@
 ---
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋%2C+I'm+Dinitha+Thewmika!;Full-Stack+Developer+%7C+SE+Undergrad;Passionate+about+building+cool+things!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋%2C+I'm+Dinitha+Thewmika!;Full-Stack+Developer+%7C+SE+Undergraduate;Passionate+about+building+cool+things!">
 </p>
 
 <p align="center">
