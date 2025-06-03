@@ -19,9 +19,10 @@
 🌱 Learning **full-stack development** with a focus on **MERN stack, Next.js, and DevOps basics**  
 💻 Building personal and academic projects to sharpen my skills  
 🚀 Looking for internships, open source opportunities, and collaboration with other developers  
-📫 Reach me at: `your.email@example.com`
+📫 Reach me at: `dinithabc2001@gmail.com`
 
 ---
+
 
 ## 🛠️ Skills & Technologies
 
